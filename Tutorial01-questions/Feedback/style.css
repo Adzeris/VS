@@ -1,0 +1,85 @@
+/* Content area */
+body {
+
+}
+
+/* Headings and text */
+h1 {
+
+}
+
+h2 {
+  
+}
+
+h1,
+h2 {
+  
+}
+
+* {
+  box-sizing: border-box;
+}
+
+p {
+  
+}
+
+/* Form structure */
+
+fieldset {
+  
+}
+
+legend {
+  
+}
+
+fieldset,
+.separator {
+  
+}
+
+.form-section {
+  
+}
+
+img {
+  
+}
+
+/* Individual form items */
+
+fieldset input {
+  
+}
+
+label {
+  
+}
+
+textarea {
+  
+}
+
+.separator {
+
+}
+
+.separator label {
+
+}
+
+.separator input,
+.separator select {
+  
+}
+
+button {
+  
+}
+
+button:hover,
+button:focus {
+  
+}
